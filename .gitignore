@@ -1,0 +1,8 @@
+# Folders 
+CarND_projects/
+__pycache__
+LICENSE
+
+#file extension
+*.ipynb
+*.sh
