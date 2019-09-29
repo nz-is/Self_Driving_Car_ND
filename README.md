@@ -104,19 +104,19 @@ In this repository I will share the **source code** of all the projects of **[Ud
  - **Summary:** Implement the extended Kalman filter in C++. Simulated lidar and radar measurements are used to detect a bicycle that travels around your vehicle. Kalman filter, lidar measurements and radar measurements are used to track the bicycle's position and velocity.
  - **Keywords:** C++, Kalman Filter
 
- #### [P7 - Unscented Kalman Filter]()
+ #### [P7 - Unscented Kalman Filter]
  - **Summary:**  Utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Kalman filter, lidar measurements and radar measurements are used to track the bicycle's position and velocity.
  - **Keywords:** C++, Kalman Filter
 
-  #### [P8 - Kidnapped Vehicle]()
+  #### [P8 - Kidnapped Vehicle]
  - **Summary:** Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data. In this project you will implement a 2 dimensional particle filter in C++. Your particle filter will be given a map and some initial localization information (analogous to what a GPS would provide). At each time step your filter will also get observation and control data.
  - **Keywords:** C++, Particle Filter
 
- #### [P9 - PID Control]()
+ #### [P9 - PID Control]
  - **Summary:** Implement a PID controller for keeping the car on track by appropriately adjusting the steering angle.
  - **Keywords:** C++, PID Controller
 
-#### [P10 - MPC Control]()
+#### [P10 - MPC Control]
 - **Summary:** Implement an MPC controller for keeping the car on track by appropriately adjusting the steering angle. Differently from previously implemented PID controller, MPC controller has the ability to anticipate future events and can take control actions accordingly. Indeed, future time steps are taking into account while optimizing current time slot.
 - **Keywords:** C++, MPC Controller
 
