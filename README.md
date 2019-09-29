@@ -11,7 +11,7 @@ In this repository I will share the **source code** of all the projects of **[Ud
   <tr>
     <th>
       <p align="center">
-           <img src="./CarND_P1/examples/overview.gif" alt="Overview" width="60%" height="60%"></a>
+           <img src="./CarND_P1/examples/overview.gif" alt="Overview" width="60%" height="60%">
            <br>P1: Basic Lane Finding
            <br><a href="./CarND_P1" name="p1_code">(code)</a>
       </p>
@@ -79,7 +79,7 @@ In this repository I will share the **source code** of all the projects of **[Ud
         </p>
     </th>
     <th><p align="center">
-        
+
            <br>P12: Road Segmentation
            <br><a href="./project_12_road_segmentation" name="p12_code">TODO</a>
         </p>
