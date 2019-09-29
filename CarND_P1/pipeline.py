@@ -1,20 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#importing some useful packages
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
 import cv2
 import math
 from utils import Line
-
-
-# In[ ]:
-
 
 def grayscale(img):
     """Applies the Grayscale transform
@@ -214,5 +203,3 @@ def color_frame_pipeline(frames, solid_lines=True, temporal_smoothing=True):
     img_blend = weighted_img(img_masked, img_color, α=0.8, β=1., γ=-0.1)
 
     return img_blend
-
-
