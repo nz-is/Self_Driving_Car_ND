@@ -80,7 +80,7 @@ In this repository I will share the **source code** of all the projects of **[Ud
 ---
 ## Table of Contents
 
-#### [P1 - Detecting Lane Lines (basic)](project_1_lane_finding_basic)
+#### [P1 - Detecting Lane Lines (basic)](CarND_P1)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
 
