@@ -27,7 +27,6 @@ In this repository I will share the **source code** of all the projects of **[Ud
         </p>
     </th>
         <th><p align="center">
-
            <br>P4: Adv. Lane Finding
            <br><a href="./project_4_advanced_lane_finding" name="p4_code">TODO</a>
         </p>
@@ -35,25 +34,21 @@ In this repository I will share the **source code** of all the projects of **[Ud
   </tr>
   <tr>
     <th><p align="center">
-
            <br>P5: Vehicle Detection
            <br><a href="./project_5_vehicle_detection" name="p5_code">TODO</a>
         </p>
     </th>
         <th><p align="center">
-
            <br>P6: Ext. Kalman Filter
            <br><a href="./project_6_extended_kalman_filter" name="p6_code">TODO</a>
         </p>
     </th>
     <th><p align="center">
-
            <br>P7: Unsc. Kalman Filter
            <br><a href="./project_7_unscented_kalman_filter" name="p7_code">TODO</a>
         </p>
     </th>
     <th><p align="center">
-
            <br>P8: Kidnapped Vehicle
            <br><a href="./project_8_kidnapped_vehicle" name="p8_code">(code)</a>
         </p>
@@ -61,25 +56,21 @@ In this repository I will share the **source code** of all the projects of **[Ud
   </tr>
   <tr>
     <th><p align="center">
-
            <br>P9: PID Controller
            <br><a href="" name="p9_code">TODO</a>
         </p>
     </th>
     <th><p align="center">
-
            <br>P10: MPC Controller
            <br><a href="./project_10_MPC_control" name="p10_code">TODO</a>
         </p>
     </th>
    <th><p align="center">
-
            <br>P11: Path Planning
            <br><a href="./project_11_path_planning" name="p11_code">TODO</a>
         </p>
     </th>
     <th><p align="center">
-
            <br>P12: Road Segmentation
            <br><a href="./project_12_road_segmentation" name="p12_code">TODO</a>
         </p>
