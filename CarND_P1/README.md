@@ -6,6 +6,6 @@ Being the very first project, the pipeline is necessarily very simple. No machin
 
 A short demo [videoclip](http://www.youtube.com/watch?feature=player_embedded&v=KlQ-8iD1EFM) (of a success case): can be found here:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KlQ-8iD1EFM" target="_blank"><img src="http://img.youtube.com/vi/KlQ-8iD1EFM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KlQ-8iD1EFM" target="_blank"><img src="examples/solidWhiteRight.gif" 
 alt="circuit" width="240" height="180" border="10" /></a>
 
