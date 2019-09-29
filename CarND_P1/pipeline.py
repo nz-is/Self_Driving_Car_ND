@@ -177,7 +177,7 @@ def get_lane_lines(image, solid_lines=True):
 
       for line in detected_lines:
         # consider only lines having slope btwn 30 and 60
-        if 0.5 <= np.abs(line.slope) <= 2.0:
+        if 0.5 <= np.abs(line.slope) <= 1.2:
           candidate_lines.append(line)
           
       lane_lines = compute_lane_from_candidates(candidate_lines, gray.shape)
